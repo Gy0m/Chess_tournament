@@ -1,4 +1,4 @@
-from controler.menu import display_menu
+from controler import display_menu
 
 
 display_menu()
